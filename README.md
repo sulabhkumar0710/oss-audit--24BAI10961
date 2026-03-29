@@ -1,6 +1,6 @@
 # The Open Source Audit: Firefox
 
-**Student Name:** sulabhkumar0710 <br>
+**Student Name:** Sulabh Kumar <br>
 **Registration Number:** SULABH 24BAI10961 <br>
 **Project Focus:** Firefox (FOSS Audit)
 
